@@ -6,7 +6,7 @@ public class rectangle {
             for (int k = 0; k < n; k++) {
                 System.out.print("* ");
             }
-            System.out.println("");
+            System.out.println();
         }
     }
 }
